@@ -1,0 +1,6 @@
+{
+  "name": "Yogya Coaching Classes",
+  "description": "Best coaching classes in Kanpur for Classes 1st to 12th (All Boards, UP Board, CBSE, ICSE), Hindi & English medium.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
